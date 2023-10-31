@@ -1,0 +1,18 @@
+{
+    "name": "aaa/bbb",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyễn Thế Dương",
+            "email": "duongntph33240@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.9"
+    }
+}
